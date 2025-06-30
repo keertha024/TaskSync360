@@ -2,7 +2,7 @@
 *A Real-Time Collaborative Todo App with Social Login*  
 **🚀 Built for the Katomaran Fullstack Hackathon**  
 
-![Architecture Diagram](./assets/architecture-diagram.png)  
+![Architecture Diagram](./architecture-diagram.png)  
 *(System architecture overview - React frontend, Node.js backend, and Supabase database)*  
 
 ---
